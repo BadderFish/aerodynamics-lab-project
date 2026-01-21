@@ -14,9 +14,9 @@ This repository contains a comprehensive computational aerodynamics study implem
 aerodynamics-lab-project/
 ├── panel_method_airfoil_analysis/     # 2D airfoil analysis using Hess-Smith method
 ├── weissinger_lifting_line_theory/    # 3D wing analysis using Weissinger method
-├── Usuelli/                           # Additional method implementations
-├── docs/                              # Final report and documentation
+├── additional_methods/                # Additional method implementations
 ├── results/                           # Generated plots and visualizations
+├── Aerodynamics_Lab.pdf               # Complete laboratory report
 └── README.md
 ```
 
@@ -140,7 +140,7 @@ See the `results/` directory for generated plots:
 - CDi vs α curves
 - MATLAB vs XFLR5 comparisons
 
-Full analysis report: [`docs/Aerodynamics_Lab.pdf`](docs/Aerodynamics_Lab.pdf)
+Full analysis report: [`Aerodynamics_Lab.pdf`](Aerodynamics_Lab.pdf)
 
 ## Authors
 
