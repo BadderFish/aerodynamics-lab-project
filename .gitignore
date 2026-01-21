@@ -1,0 +1,62 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+slprj/
+*.autosave
+octave-workspace
+*.log
+
+# MATLAB Code Generation
+codegen/
+
+# MATLAB App Designer
+*.mlapp.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Operating System
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Output files (optional - uncomment if you don't want to track these)
+# *.png
+# *.jpg
+# *.eps
+# *.pdf
+# *.txt
+# *.dat
+
+# Machine-specific config files
+config-*.mat
+*-LAPTOP-*.mat
+
+# Temporary data
+temp/
+tmp/
+scratch/

@@ -1,0 +1,19 @@
+naca  0008_301
+
+pane
+
+gdes
+tgap 0 0 
+exec 
+
+
+ppar
+n  302
+
+
+save  NACA_0008_301.dat
+
+y
+
+quit 
+

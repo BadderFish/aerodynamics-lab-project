@@ -1,0 +1,6 @@
+NACA 0012
+OPER
+ALFA 2
+CPWR naca_0012_2_cp.txt
+  
+QUIT
