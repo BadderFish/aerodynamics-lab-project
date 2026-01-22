@@ -1,4 +1,4 @@
-# Usuelli Methods
+# Additional Methods
 
 Additional Hess-Smith implementations including tandem airfoil configurations and NACA 4-digit airfoil geometry generator.
 
