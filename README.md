@@ -167,3 +167,4 @@ Politecnico di Milano - December 2025
 ---
 
 *This project demonstrates practical application of computational aerodynamics methods for airfoil and wing analysis, with validation against industry-standard tools.*
+
